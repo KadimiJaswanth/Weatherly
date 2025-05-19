@@ -1,6 +1,6 @@
 # Weatherly ☀️🌧️
 
-![GitHub Repo stars](https://img.shields.io/github/stars/KadimiJaswanth/Weatherly?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/KadimiJaswanth/Weatherly?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/KadimiJaswanth/Weatherly?style=social)
 
 **Weatherly** is a fast, privacy-focused Flutter weather app providing current conditions, hourly forecasts, multi-day outlooks, air quality, and more — all wrapped in a clean and modern UI.
@@ -18,20 +18,20 @@
 
 ## 🚀 Features
 
-- 🌤 Real-time current weather with temperature, condition, and location
-- 📅 Detailed 7-day forecast and hourly weather breakdown
-- 🌙 Moon phases and sunrise/sunset times
-- 🌫 Air Quality Index (AQI) integration
-- 🧭 Location-based search or GPS auto-detection
-- 📱 Clean, responsive, and intuitive UI
+- 🌤 Real-time current weather with temperature, condition, and location  
+- 📅 Detailed 7-day forecast and hourly weather breakdown  
+- 🌙 Moon phases and sunrise/sunset times  
+- 🌫 Air Quality Index (AQI) integration  
+- 🧭 Location-based search or GPS auto-detection  
+- 📱 Clean, responsive, and intuitive UI  
 
 ---
 
 ## 🛠 Built With
 
-- [Flutter](https://flutter.dev) — Cross-platform UI toolkit
-- [WeatherAPI.com](https://www.weatherapi.com/) — Weather data provider
-- Dart & Material Design
+- [Flutter](https://flutter.dev) — Cross-platform UI toolkit  
+- [WeatherAPI.com](https://www.weatherapi.com/) — Weather data provider  
+- Dart & Material Design  
 
 ---
 
@@ -41,7 +41,7 @@
 
 1. [Download the APK](https://github.com/KadimiJaswanth/Weatherly/releases) (coming soon)  
 2. Install on your Android device  
-3. Allow permissions for location (optional)
+3. Allow permissions for location (optional)  
 
 ### Developer Mode
 
@@ -50,6 +50,9 @@ git clone https://github.com/KadimiJaswanth/Weatherly.git
 cd Weatherly
 flutter pub get
 flutter run
+```
+
+---
 
 ## 🔐 Privacy
 
@@ -72,6 +75,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 ## 🙌 Author
 
 Developed with ❤️ by [Kadimi Jaswanth](https://github.com/KadimiJaswanth)
-
-
-
