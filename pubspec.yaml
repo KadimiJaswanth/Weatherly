@@ -1,0 +1,42 @@
+name: weather_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  provider: ^6.1.0
+  geolocator: ^10.0.0
+  flutter_svg: ^2.0.7
+  intl: ^0.18.0
+  connectivity_plus: ^5.0.1
+  google_fonts: ^4.0.3  # Add this line for Google Fonts
+  flutter_spinkit: ^5.1.0  # Add this line for Flutter SpinKit
+  shared_preferences: ^2.0.15  # Add this line for SharedPreferences
+  weather_icons: ^3.0.0
+  flutter_native_splash: ^2.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.3.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/logo.png
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: center
