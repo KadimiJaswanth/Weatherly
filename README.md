@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# weather_app
+# Weatherly ☀️🌧️
 
-A new Flutter project.
+**Weatherly** is a simple, fast, and privacy-friendly Flutter weather app that shows current conditions, hourly forecasts, multi-day outlooks, air quality, and more.
 
-## Getting Started
+![Weatherly Screenshot](screenshot.png) <!-- Replace with actual image URL or path -->
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🌤 Current weather with temperature, condition, and location
+- 📅 7-day forecast and hourly breakdown
+- 🌙 Moon phases and sunrise/sunset times
+- 🌫 Air Quality Index (AQI)
+- 🧭 Location-based search or GPS auto-detect
+- 📱 Clean and modern UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Weatherly
->>>>>>> d274cb9af4990ba31474c5c30fc39de24f66212c
+---
+
+## 🛠 Built With
+
+- [Flutter](https://flutter.dev)
+- [WeatherAPI.com](https://www.weatherapi.com/) (free weather data)
+- Dart, Material Design
+
+---
+
+## 📦 Installation
+
+### Android (Manual)
+1. [Download the APK](https://github.com/KadimiJaswanth/Weatherly/releases) (coming soon)
+2. Install on your Android device
+3. Allow permissions for location (optional)
+
+### Developer Mode
+```bash
+git clone https://github.com/KadimiJaswanth/Weatherly.git
+cd Weatherly
+flutter pub get
+flutter run
