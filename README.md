@@ -2,7 +2,9 @@
 
 **Weatherly** is a simple, fast, and privacy-friendly Flutter weather app that shows current conditions, hourly forecasts, multi-day outlooks, air quality, and more.
 
-![Weatherly Screenshot](screenshot.png) <!-- Replace with actual image URL or path -->
+![Home Screen](./home_screen.png)
+![Forecast Screen](./forecast_screen.png)
+ <!-- Replace with actual image URL or path -->
 
 ---
 
