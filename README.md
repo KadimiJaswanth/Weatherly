@@ -10,8 +10,8 @@
 ## 📸 App Preview
 
 <div align="center">
-  <img src="./home_screen.png" alt="Home Screen" width="250" style="margin-right: 20px"/>
   <img src="./forecast_screen.png" alt="Forecast Screen" width="250"/>
+  <img src="./home_screen.png" alt="Home Screen" width="250" style="margin-right: 20px"/>
 </div>
 
 ---
@@ -51,33 +51,27 @@ cd Weatherly
 flutter pub get
 flutter run
 
+## 🔐 Privacy
 
-🔐 Privacy
 Weatherly respects your privacy — no data collection, no ads, and all location processing is done locally on your device.
 
-📄 License
-This project is licensed under the MIT License.
+---
 
+## 📄 License
 
-🤝 Contributing
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve Weatherly.
 
-🙌 Author
-Developed with ❤️ by Kadimi Jaswanth
-
-yaml
-Copy
-Edit
-
 ---
 
-### Notes:
-- I added **GitHub social badges** for stars and forks at the top for a professional touch.
-- The screenshots are displayed side-by-side centered using simple HTML `<div>` with inline styles for spacing and sizing.
-- The text is more concise and uses consistent emojis for a friendly vibe.
-- Clear sectioning with horizontal lines (`---`) for easy reading.
-- Privacy and contribution sections emphasized to build trust and community engagement.
+## 🙌 Author
 
----
+Developed with ❤️ by [Kadimi Jaswanth](https://github.com/KadimiJaswanth)
 
-If you want, I can also help you add **dark mode badges**, or generate a **nice GitHub Actions workflow** to 
+
+
