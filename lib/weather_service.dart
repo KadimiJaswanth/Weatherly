@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class WeatherService {
-  static const String apiKey = 'YOUR_API_KEY'; // Your API key
+  static const String apiKey = 'YOUR_API_KEYS'; // Your API key
   static const String baseUrl = 'http://api.weatherapi.com/v1';
 
   // Fetch weather + forecast by city name (default 7 days)
